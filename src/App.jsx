@@ -8,7 +8,7 @@ import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
-    <main className="overflow-x-hidden bg-white text-dark">
+    <main className=" bg-white text-dark">
       <Hero />
       <Services />
       <Banner />
